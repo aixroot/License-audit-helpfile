@@ -62,9 +62,9 @@ The concept audit report should contain:
 9.	No more reviews for a while. 
 
 Conduct a Lessons learned review 
-•	Recalculate your TCO
-•	Get your SAM in order (risk mitigation)
-•	Look for an better license then the one you use currently  (risk avoidance)
-•	Open source alternative 
+1.	Recalculate your TCO
+2.	Get your SAM in order (risk mitigation)
+3.	Look for an better license then the one you use currently  (risk avoidance)
+4.	Open source alternative 
 
 
