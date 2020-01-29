@@ -1,7 +1,7 @@
 # License-audit-helpfile
 Dealing with Software License audits
 Before the audit
-If you use proprietary software make sure you have SAM / AM.
+If you use proprietary software make sure you have SAM, ITAM, AM.
 If you work for a big company or a government you may be audited.
 Software audits are just like lie detector tests: 
 You will always fail and be asked to confess your software sins and pay up. 
