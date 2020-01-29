@@ -33,32 +33,33 @@ Audited organization should negotiate and enter into a non-disclosure agreement 
 
 
 *Before the audit write an audit agreement document
-•	Agree on a time period
-•	Agree data types: log data, server 
-•	Instance, vm, container cloud, 
-•	Claim copyrights on all data and deployment information.
-•	No tools in your network, audit during office hours (or not ;-)
-•	Do not fill in the forms of the auditor. (list all servers real and virtual)
-•	Have all mail and post with you translated in your own language.
-•	Ask for a “certificate of good conduct” for the each of the auditing staff. 
-•	Don’t let them run around, Never unsupervised, dedicated guard. Give them a room with a coffee thermos. (or not)
-•	Agree a SPOC! (for all subsidiaries) 
-•	a list of agreed evidence: system output (no interviews or own observation by the auditor) 
-•	Records should never leave the premises. (Perverse effects: if the seller knows your software / hardware setup he is better equipped to quote in a tender process)
-•	You don’t have to be nice. (Data centers have a shredder for smartphones :-)
-•	Do not automatically agree with suggested deadlines (make sure they are achievable)
-•	The auditor should, of course, have the right to disclose the audit results (not the data) to their client; however, it is important that the audited organization reserve its right to review and comment on the audit findings before they are presented to the software vendor
+1.	Agree on a time period
+2.	Agree data types: log data, server 
+3.	Instance, vm, container cloud, 
+4.	Claim copyrights on all data and deployment information.
+5.	No tools in your network, audit during office hours (or not ;-)
+6.	Do not fill in the forms of the auditor. (list all servers real and virtual)
+7.	Have all mail and post with you translated in your own language.
+8.	Ask for a “certificate of good conduct” for the each of the auditing staff. 
+9.	Don’t let them run around, Never unsupervised, dedicated guard. Give them a room with a coffee thermos. (or not)
+10.	Agree a SPOC! (for all subsidiaries) 
+11.	a list of agreed evidence: system output (no interviews or own observation by the auditor) 
+12.	Records should never leave the premises. (Perverse effects: if the seller knows your software / hardware setup he is better equipped to quote in a tender process)
+13.	You don’t have to be nice. (Data centers have a shredder for smartphones :-)
+14.	Do not automatically agree with suggested deadlines (make sure they are achievable)
+15.	The auditor should, of course, have the right to disclose the audit results (not the data) to their client; however, it is important that the audited organization reserve its right to review and comment on the audit findings before they are presented to the software vendor
+
 
 The concept audit report should contain:
-•	Product identification;
-•	Product name;
-•	How it was calculated and the actual metric;
-•	Overzicht rechten van elk product van; 
-•	Broninformatie waarop het overzicht van het deployment van elk product is gebaseerd (bijvoorbeeld Server type, model, naam, processors, cores);
-•	Include Settlement in audit agreement
-•	Cost of audit, second opinion.
-•	Overpay, redistribute to other departments, 
-•	No more reviews for a while. 
+1.	Product identification;
+2.	Product name;
+3.	How it was calculated and the actual metric;
+4.	Overzicht rechten van elk product van; 
+5.	Broninformatie waarop het overzicht van het deployment van elk product is gebaseerd (bijvoorbeeld Server type, model, naam, processors, cores);
+6.	Include Settlement in audit agreement
+7.	Cost of audit, second opinion.
+8.	Overpay, redistribute to other departments, 
+9.	No more reviews for a while. 
 
 Conduct a Lessons learned review 
 •	Recalculate your TCO
