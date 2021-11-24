@@ -54,9 +54,9 @@ The concept audit report should contain:
 1.	Product identification;
 2.	Product name;
 3.	How it was calculated and the actual metric;
-4.	Overzicht rechten van elk product van; 
-5.	Broninformatie waarop het overzicht van het deployment van elk product is gebaseerd (bijvoorbeeld Server type, model, naam, processors, cores);
-6.	Include Settlement in audit agreement
+4.	A list of all licenses; 
+5.	Source information of lists of deployment (for example: Server type, model, naam, processors, cores);
+6.	Include the proposed Settlement in audit agreement (because if you are found at fault first the other party will charge super prices and conditions (long term licenses) 
 7.	Cost of audit, second opinion.
 8.	Overpay, redistribute to other departments, 
 9.	No more reviews for a while. 
